@@ -1,1 +1,2 @@
-We are studying git workflow in this lab
+We are studying git workflow in this lab.
+Including separate staged commits of each file we have.
