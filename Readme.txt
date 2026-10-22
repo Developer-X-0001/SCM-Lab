@@ -3,3 +3,5 @@ My first Git and GitHub project.
 Week 6 Lab
 
 Added notes.txt
+
+Updated notes.txt
